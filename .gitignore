@@ -1,0 +1,72 @@
+.obsidian/workspace.json
+
+mcp.json
+.cursor
+.vscode
+*.exe
+*.o
+*.obj
+*.lib
+*.dll
+*.so
+*.dylib
+*.a
+*.h
+*.hpp
+tempCodeRunnerFile.*
+*.ini
+Project Backups
+.DS_Store
+media/
+.claude/
+
+# google drive
+.tmp.driveupload
+.tmp.drivedownload
+test.dSYM
+
+# proteus
+*.workspace
+*.pdsbak
+*.zip
+protues仿真/
+
+# 软工
+*.tlog
+*.log
+
+#git
+
+#python
+__pycache__
+
+# rust
+target/
+Cargo.lock
+Cargo.toml
+
+# 编译产物
+build/
+*.o
+*.dSYM/
+
+# 可执行文件
+page_replacement
+main
+
+
+.venv
+
+# AI
+.hermes
+
+# 人工智能导论
+gorge_walk_v2-simplify_training_monte_carlo-292058/
+
+# 软件工程
+x64/
+.vs/
+packages/
+
+# 电子书
+电子书/
